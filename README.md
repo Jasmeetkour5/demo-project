@@ -1,3 +1,3 @@
 # demo-project
-This is my first git repository
-Author-Jasmeet Kour
+This is my first git repository.
+Author-Jasmeet Kour.
